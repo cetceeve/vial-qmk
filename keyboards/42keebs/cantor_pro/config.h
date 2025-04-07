@@ -19,6 +19,10 @@
 #    include "frood_v1.h"
 #elif defined(KEYBOARD_42keebs_cantor_pro_frood_v2)
 #    include "frood_v2.h"
+#elif defined(KEYBOARD_42keebs_cantor_pro_frood_v31_left)
+#    include "frood_v31_left.h"
+#elif defined(KEYBOARD_42keebs_cantor_pro_frood_v31_right)
+#    include "frood_v31_right.h"
 #elif defined(KEYBOARD_42keebs_cantor_pro_mx_v1)
 #    include "mx_v1.h"
 #endif
